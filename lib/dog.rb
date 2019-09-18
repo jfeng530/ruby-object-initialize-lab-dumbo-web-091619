@@ -8,4 +8,6 @@ class Dog
   def name
     @name
   end
+  
+  def initialize=
 end
